@@ -1,7 +1,3 @@
-/* Copyright 2016 Digital Route AB. All rights reserved.
- * Proprietary and Confidential
-*/
-
 /**
  * Created by fadzly on 3/21/17.
  */
